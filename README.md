@@ -7,5 +7,5 @@ Team:
 ### Kum Buoonzuo Khan Beng
 ### Menyong Rita Kwasinwi
 
-## >>> [DEVELOPMENT LINK TO THE CODE USING BUBBLE.IO (ARTIFY)](https://bubble.io/page?type=page&name=index&id=brafikaai&tab=tabs-1) <<
+## >>> [DEVELOPMENT LINK TO THE CODE USING BUBBLE.IO (ARTIFY)](https://bubble.io/page?id=monkam&tab=tabs-1&name=index) <<
 
