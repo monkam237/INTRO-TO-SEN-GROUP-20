@@ -1,2 +1,11 @@
-# INTRO-TO-SEN-GROUP-20
-This repository is for Artify a project developed by i and my team you will find all relevant links to the demo and how we built the platform 
+# INTRO-TO-SEN-GROUP-20 REPO
+## >> [CLICK HERE TO SEE THE DEMO (ARTIFY)](https://monkam.bubbleapps.io/version-test/?H=Home) <<<
+Team:
+### Monkam Brandy Buenga
+### Ngassa Precious Moses
+### Anye Clifford Che
+### Kum Buoonzuo Khan Beng
+### Menyong Rita Kwasinwi
+
+## >>> [DEVELOPMENT LINK TO THE CODE USING BUBBLE.IO (ARTIFY)](https://bubble.io/page?type=page&name=index&id=brafikaai&tab=tabs-1) <<
+
