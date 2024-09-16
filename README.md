@@ -14,3 +14,6 @@ Team:
 
 Mobile money payments with FAPSHI
 ## >> [CLICK HERE TO SEE THE API AND DOCS (ARTIFY)](https://documentation.fapshi.com/dev-tools.html) <<<
+Api test link for fapshi
+
+## >> [CLICK HERE TO SEE THE API Test (ARTIFY)](https://checkout.fapshi.com/link/28553440) <<<
