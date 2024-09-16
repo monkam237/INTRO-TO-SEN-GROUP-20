@@ -1,11 +1,13 @@
 # monkam237/INTRO-TO-SEN-GROUP-22
-## >> [CLICK HERE TO SEE THE DEMO (AI71)](https://brafikaai.bubbleapps.io/version-test) <<<
+## >> [CLICK HERE TO SEE THE DEMO (ARTIFY)](https://monkam.bubbleapps.io/version-test/?H=Home) <<<
 Team:
-### Nimameh Nixon Software Developer and ui ux designer
-### POLLAH YVES Project manager and marketing
-### ZEBS HAUPUR Microsoft_LSA, AI researcher and Machine learning Expert
+### Monkam Brandy Buenga ui ux designer
+### Kum Buoonzuo Khan Beng Project manager and marketing
+### Menyong Rita Kwasinwi  API AND DOCS
+### Anye Clifford Che Backend Development and database
+### Ngassa Precious Moses Frontend development
 
-## >>> [DEVELOPMENT LINK TO THE CODE USING BUBBLE.IO (AI71)](https://bubble.io/page?type=page&name=index&id=brafikaai&tab=tabs-1) <<
+## >>> [DEVELOPMENT LINK TO THE CODE USING BUBBLE.IO (ARTIFY)](https://bubble.io/page?id=monkam&tab=tabs-1&name=index) <<
 
 # CARD PAYMENTS WITH STRIPE
 ## >> [CLICK HERE TO SEE THE API AND DOCS (ARTIFY)](https://docs.stripe.com/api/payment_methods) <<<
