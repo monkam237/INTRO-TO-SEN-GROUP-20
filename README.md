@@ -12,3 +12,5 @@ Team:
 # CARD PAYMENTS WITH STRIPE
 ## >> [CLICK HERE TO SEE THE API AND DOCS (ARTIFY)](https://docs.stripe.com/api/payment_methods) <<<
 
+Mobile money payments with FAPSHI
+## >> [CLICK HERE TO SEE THE API AND DOCS (ARTIFY)](https://documentation.fapshi.com/dev-tools.html) <<<
